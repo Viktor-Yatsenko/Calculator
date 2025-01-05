@@ -1,17 +1,6 @@
-def plus_function(a, b):
-    print(a + b)
+# from gui import EntryFrame
 
-def minus_function(a, b):
-    print(a - b)
-
-def multiply_function(a, b):
-    print(a * b)
-
-def division_function(a, b):
-    print(a / b)
-
-a = int(input())
-b = int(input())
-
-plus_function(a, b)
-
+# def button_one_press():
+        
+#     print(f"Сума = {EntryFrame.number1, + EntryFrame.number2}")
+        
